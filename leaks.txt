@@ -78,3 +78,836 @@ BBBBBBBBBBBB%%%%%%%%%%%%%8%Mhbba&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@B%%%%B@@@@@@@@@@@@@@@@BhdkbqwwpkbpoB@@%hphbmmZwkbd#B@@%*k%@@@8q#B@@Bah&BB@WhoB@@@@@@@@@@@@@@@@@BBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@B%%%%B@@@@@@@@@@@@@@@@@Wdwhoaaobmb8@@@@&wwkoaoopmk&@@@B%&B@B@B&%@@@@8&B@@B%88@@@@@@@@@@@@@@@@@@BBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@B%%%%B@@@@@@@@@@@@@@@@@B*qmmmmmZpW@@@@@BMwmZOZmmdWB@@@%#a8@@B8h#B@@B*o8@@@&o#B@@@@@@@@@@@@@@@@@BBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+---------------------------------------------------------------------------------------------------------------------------------------Information
+---------------------------------------------------------------------------------------------------------------------------------------This guide contains supervision and management guides, all of them up to date with the latest information.
+---------------------------------------------------------------------------------------------------------------------------------------
+LINKS TO ALL DOCUMENTS
+---------------------------------------------------------------------------------------------------------------------------------------
+https://docs.google.com/document/d/1qQXzRN9t9bk5sJ6XIzslQRAW5iOU6FQCcW8UYtCCYao/edit#heading=h.jduc3gs8dlzu - Supervision guide
+https://docs.google.com/document/d/1wGMt8ffYRNS5Z7cIxvHNLGLEDrBaRN4tlcjZWGWxk1Q/edit#heading=h.jduc3gs8dlzu - Management Team Guide
+https://docs.google.com/document/d/1M1AAF4x1sFOOJ-tkBgMFrN6FRUANzizeg5WtEcrNpqw/edit#heading=h.jduc3gs8dlzu - Punishment Information
+https://docs.google.com/document/d/1crDi-fnVqNXStHT73WhWiTCq18aBOj7LuJUpNo4b0VM/edit#heading=h.jduc3gs8dlzu - Trainee Guide
+https://docs.google.com/document/d/1loc9UwxP3s4OcdtQEhNOOe9wO8LDlW0SaCHL_pmOSTk/edit#heading=h.jduc3gs8dlzu - Junior Operator Guide
+https://docs.google.com/document/d/1KUe4d7tRqSdODBIri_mWNxhYB66n7CXJzlnKxMlhVc0/edit#heading=h.jduc3gs8dlzu - Senior Operator Guide
+https://docs.google.com/document/d/15reP-2vdiQ0wRTTejvz-De-VUxpTd4t-C1lqSeY2xyg/edit#heading=h.jduc3gs8dlzu - Training Guide
+https://docs.google.com/document/d/1Dynjx2U2wZr0A287s3pTR6DvFPfIW9XkjzsWA5PwdbE/edit - Human Resources Information
+https://docs.google.com/document/d/1_mJsafpZ_QD-DanIhJeI4FKUkRbVfC0rSTQotHmSXKI/edit - Consequential Guide
+https://docs.google.com/document/d/17mHNElkOitlK_HdpEp0qT59N5Dwygirqr7MzunNcIJk/edit - Operations Handbook
+https://docs.google.com/forms/d/e/1FAIpQLSem1y2E18FTkXr6fY8QzhR_yLxQqtDyd7uh5qda5WSuro_efw/closedform - OPD QUIZ (closed for now)
+https://docs.google.com/forms/d/e/1FAIpQLScosZWU8fqJUzZEAIMq0zwo7605ji6H3TseoNw_fpso0_4Jag/viewform - CAO Contact Form
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Supervision guide
+---------------------------------------------------------------------------------------------------------------------------------------
+Rank Abilities
+At training, the different roles that the Supervision Team can become are displayed below. As you move up the ranks, you have more roles available to you.
+
+
+                   Assistant   Trainer   Co-Host    Host
+Shift Leader      /   ✅      /   ✅     /         /         /
+----------------- /--------- /---------/---------/---------/
+Supervisor        /     ✅    /    ✅    /  ✅      /        /
+----------------- /--------- /---------/---------/---------/
+Assistant Manager /     ✅    /    ✅    /   ✅     /    ✅    /
+----------------- /--------- /---------/---------/---------/
+General Manager   /      ✅   /    ✅    /    ✅    /    ✅    /
+
+For more information on training sessions, visit the training guide.
+
+Rules
+As a member of the Supervision Team, make sure to follow these rules to avoid being demoted:
+Do not ask for a promotion. This is called hinting.
+Respect the authority of the Management and Corporate Team.
+Do not act disrespectfully towards customers or staff members.
+Maintain professional behavior and act appropriately. 
+Failure to meet these expectations will result in punishment. 
+
+Punishments
+
+Depending on the severity of your actions, the Corporate Team will administer one of the following punishments:
+
+Strike        / This is a minor offence due to abuse of power, unprofessionalism, or misuse of tools. Staff members will be given a 
+              / verbal warning before receiving a strike.
+---------------------------------------------------------------------------------------------------------------------------------------
+Demotion      / This will move you to your previous rank after receiving THREE strikes. The Corporate Team will log your demotion for 
+              / future reference.
+---------------------------------------------------------------------------------------------------------------------------------------
+Termination   / This will move you to the Customer Rank. Terminations are given for severe violations of the rules. The Corporate Team 
+              / will log your demotion for future reference.
+---------------------------------------------------------------------------------------------------------------------------------------
+To report a staff member for breaking the rules, contact a member of the Corporate Team who can assist you with the situation. 
+
+Promotions
+To work your way up the ranks, refer to the document below. Please read through everything before asking a staff member a question.
+
+Activity
+
+The Supervision Team is not required to meet an activity requirement. However you must have outstanding activity to receive a promotion in a promotional batch.
+Sign up for Hyra using the website below. This will allow you to view the minutes you’ve spent at the car wash and the sessions you’ve attended.
+http://activity.washiez.com/ 
+
+Trainings
+
+Training sessions are a HUGE part of your career at Washiez. Make sure to use the training guide if you are a host or trainer. 
+If you do not have a member of the Corporate Team in your server, use the #ranker-requests channel on our Discord server to call for one. 
+A link to the training guide is provided below. All of the information about training sessions are provided in this document. 
+---------------------------------------------------------------------------------------------------------------------------------------
+Management Team Guide
+---------------------------------------------------------------------------------------------------------------------------------------
+Rank Description
+Junior, Senior and Head Director are our Management Team ranks. They are given moderation commands in-game and can assist the Supervision Team. They are trusted with more responsibilities and authority and should act accordingly to sustain that trust. Newly promoted Junior Directors can use this guide to learn their responsibilities and limits.
+
+Duties
+Moderating the car wash
+Answering #management-requests
+Hosting and attending training sessions
+Assisting others on the Supervision Team
+Logging sessions on Hyra
+
+Hyra Logging
+Now with the release of our new activity tracking website, Hyra, Senior and Head Directors will be able to log sessions from #session-logs, into Hyra. When doing so, make sure to add a checkmark reaction on it to show that you’re logging it, and then you can log the session attendance on Hyra. Only one person should be logging a server.
+Hyra Link: activity.washiez.com
+
+Activity Requirements
+Each week, the Management Team goes through an activity reform. The Human Resources Department will observe session attendance and in-game minutes. Failing this reform could lead to an inactivity reminder, warning or demotion, depending on how many times you have failed to meet your requirements.
+
+Junior and Senior Directors are required to complete the following every week:
+Attend at least four training sessions
+Have at least 120 minutes at the car wash
+
+Head Directors are required to complete the following every week:
+Attend at least three training sessions
+Have at least 90 minutes at the car wash
+
+Command Usage
+The Management Team is the first rank to access moderation commands at the car wash. This is a privilege and should be appropriately used to avoid consequences. You may have to use moderation commands when moderating the car wash or answering an #management-request. Please refer to the list below for specific instructions.
+
+:bans - Shows a list of server bans. (ALLOWED)
+:pm - Sends a personal message. (ALLOWED)
+:m - Announces a message. (NOT ALLOWED)
+:to - Teleport to a player. (ALLOWED)
+:team - Changes a player’s team. (NOT ALLOWED)
+:info - Get information about a player. (ALLOWED)
+:joinlogs - Log of all joins. (ALLOWED)
+:gamepassinfo - Gamepass information. (ALLOWED)
+:iteminfo - Item information. (ALLOWED)
+:shutdownlogs - Log of shutdowns. (ALLOWED)
+:reverbs - Displays sound reverbs. (ALLOWED)
+:clearstartergear - Clears starter gears. (NOT ALLOWED)
+:respawn/:res - Respawns player. (ALLOWED)
+:kick - Kicks player. (ALLOWED FOR FIRST OFFENSES)
+:ban - Bans player from the server. (ALLOWED AFTER 2 KICKS)
+:unban - Unbans player from the server. (ALLOWED WITH REASON)
+:cmds - Shows command list. (ALLOWED)
+:admins/:ingameadmins - Shows admins in-game. (ALLOWED)
+:chatlogs - Logs of all chats. (ALLOWED)
+:pbans - Shows list of permanent bans. (ALLOWED)
+:view - Views player. (ALLOWED)
+:unview - Unviews player. (ALLOWED)
+:speed/:ws - Increases/Decreases speed. (NOT ALLOWED)
+:refresh/:ref - Refreshes player. (ALLOWED)
+:god - Gives player infinite health. (NOT ALLOWED)
+:ff - Adds a forcefield to player. (ALLOWED IF AFK)
+:unff - Removes forcefield from player. (ALLOWED IF AFK)
+:countdown - Starts a countdown. (NOT ALLOWED)
+:time - Changes time. (NOT ALLOWED
+:removetools - Removes items from player’s inventory. (NOT ALLOWED)
+
+Promotion
+The next step after becoming Head Director is becoming a High Rank. Once a department has opened up, chiefs will look at your activity to decide who they want to hire as a Corporate Intern. Corporate Interns have a trial period, and have a variety of tasks to complete and show that they are capable of doing. The departments are described below.
+
+Public Relations - Organizing events, affiliates, and social media
+Operations - In-game moderation, tickets, and ranking at trainings
+Human Resources - Manages staff, hiring, promotions, and punishments
+---------------------------------------------------------------------------------------------------------------------------------------
+Punishment Information
+---------------------------------------------------------------------------------------------------------------------------------------
+Overview
+This document gives an explanation of how to administer punishments at the car wash. Give punishments using in-game commands.
+Contact a member of the Corporate Team to permanently ban.
+If you are unsure of the punishment, provide a screenshot and description of the situation in #assistance and a member of the Compliance Team will assist you.
+If a member of the Entry or Supervision Team is breaking the rules, open a ticket in #support with evidence.
+
+--- Level 0 ---
+No Punishment
+Usernames: Inappropriate or disrespectful usernames
+Bypassing (Guest/Customer): Using profanity
+Exceptions are made for NSFW and discriminatory comments
+--- Level 1 ---
+3 Warnings ➞ Jail ➞ Kick (:kick)
+Trolling: Disrupting other players with rude comments or insults
+Examples include fat shaming
+Blocking: Obstructing other cars
+Cutting: Moving in front of others while waiting in line
+Ramming: Repeatedly hitting another player or car
+--- Level 2 ---
+Kick (:kick) ➞ Ban (:ban)
+Glitching: Disrupting other players and pushing their car with crates, potions, or avatar items
+Bypassing (Trainee+): Saying a word that is not allowed on Roblox
+Make sure the word is clearly bypassed
+“btc” is not considered bypassing
+Threats: Deliberately threatening to cause serious harm
+This includes death wishes
+Raiding: An organized group of people being disruptive
+Only take action if the players are spamming or trolling
+Spamming: Repeating a message over and over
+--- Level 3 ---
+Server Ban (:ban)
+NSFW: Inappropriate comments
+Understand the context before banning
+Consult a member of the Compliance Team if you are unsure
+Guide Leaking: Includes current and outdated guides for the Supervision, Management, or Corporate Team (how ironic)
+Warn/Jail Evading: Purposefully leaving the game to avoid warnings or glitching out of jail
+--- Level 4 ---
+Permanent Ban (:pban)
+Exploiting: Using scripts to do things that are not a function of the game
+Make sure the player is clearly exploiting and not experiencing lag
+Personal Information Sharing someone else’s personal information
+Examples include unwillingly sharing someone’s address, name, or phone number
+Evading Punishment: Joining on alternate accounts to break the rules
+Discrimination: Unjust or biased treatment toward an individual or group based on characteristics such as race, gender, or age
+Examples include slurs, sexism, racism, and homophobia
+Discriminatory usernames or clothing is not tolerated
+Understand the situation before taking action
+Consult a member of the Compliance Team if you are unsure
+---------------------------------------------------------------------------------------------------------------------------------------
+Trainee Guide
+---------------------------------------------------------------------------------------------------------------------------------------
+Notes Stage
+Make sure everyone finds a seat and is in the correct group.
+As a trainer, you must keep the training going with minimal interruptions. Allow your ASSISTANTS to handle disruptions. 
+
+Welcome to the training session! As your trainer, I will guide you through everything you need to do in order to rank up.
+Before we begin, you should be seated at all times. If you cannot see my chat, adjust your camera. 
+Unless instructed to do so, leaving your seat will result in a warning. 
+The first stage of training will be the notes section. Listen carefully as I explain the training procedure you will undergo during your time at Washiez.
+By passing THREE training sessions, you will receive the rank Head Operator.
+Each training session you attend, you will be promoted ONE rank.
+By passing this training session, you will be ranked to Junior Operator and can work at the car wash.
+Continue attending training sessions to work your way up the ranks.
+Although, once you achieve the rank Head Operator, you will NOT be able to attend training sessions.
+
+Instead, work hard and play the game frequently for a chance at being promoted to Shift Leader. 
+Shift Leaders can use the moderation system to handle trollers at the car wash and help out at training sessions.
+In future trainings, you will be given a detailed explanation of what it takes to become a Shift Leader.
+It’s also important to know that the ranks at Washiez are separated into categories.
+Junior Operators, Senior Operators, and Head Operators are in the Entry Team.
+Shift Leaders, Super-visors, Assistant Managers, and General Managers are in the Super-vision Team.
+I will explain more about the Super-vision Team later in the training and how they will be useful to you.
+Greetings Stage
+Thank you for listening! That concludes the notes stage.
+As you begin your journey at Washiez, make sure to keep in mind what I explained. If you have any questions, feel free to ask later in the training.
+We will now be moving onto the greetings stage.
+The MOST IMPORTANT task as a Junior Operator is to work at the lanes.
+At each lane, there is a booth with a register that allows you to hand a ticket to the customer and open the gate.
+When a customer drives up to your booth, you must be prepared to greet the customer and ask them what type of ticket they would like.
+This is called your greeting. Here’s an example of an acceptable greeting…
+Hello, welcome to Washiez! What kind of ticket can I get you? The options are Regular, Extra, and Deluxe! 
+You have one minute to prepare your greeting. Your minute starts now!
+I suggest copying or writing down your greeting so you don’t forget it.
+Good luck!
+After waiting one minute, make sure you and your assistants are checking greetings. Give feedback to as many people as you can! 
+Thank you for participating! 
+Remember, having a friendly and understandable greeting is very important.
+You’re responsible for making our customers feel welcomed.
+Keep that in mind when you begin working at the car wash!
+Ticket Stage
+That concludes the greetings stage. 
+How is everyone doing so far? If you have any questions, now would be the time to ask. 
+Take a minute to answer questions with your assistants. Don’t take too long answering questions.
+Alright, we will now be moving on to the ticket stage. 
+In this stage, we will pretend that you’re working at a ticket booth.
+You will use the greeting you just created to simulate a real scenario at the car wash.
+In order to do this, please follow me to the demo lane. Once we arrive, have a seat on the benches in front of the booth. 
+Walk over to the demo lane. Wait until everyone has taken a seat.
+Let’s begin.
+To use the ticket system, ask what type of ticket the customer would like in your greeting.
+Interact with the ticket system to select between Regular, Extra, and Deluxe.
+Once you click an option, the ticket will automatically be given to the customer.
+Then, open the gate to let them through. Don’t close it on them!
+Now it’s time to practice when a customer drives up.
+Once I approach with my car, stay seated and say your greeting as if you’re standing in the booth.
+After that, I’ll tell you what type of ticket I want.
+Since we don’t have time for each of you to use the ticket system individually, just say -gives ticket-.
+This will indicate that you’ve given me a ticket and opened the gate for me to pass.
+As a reminder, make sure to use an appropriate greeting and pretend to hand me a ticket. Please STAY SEATED the entire time. 
+Drive your car in front of them. Once they say their greetings, tell them what type of ticket you want. 
+
+Trolling Stage
+Good job! Keep up the great work as we move into the trolling stage.
+In this stage, our assistant and I will demonstrate how to handle a troller.
+Our assistant will be inside the ticket booth and will ask me what type of ticket I want. I will drive up in my car and pretend to be a troller.
+They will give me one VERBAL warning, and then will call a member of the Super-vision Team by saying -calls ST-
+ST is an abbreviation for Super-vision Team.
+This will indicate that they reported me to a member of the Super-vision Team if it were a real scenario.
+Once again, the Super-vision Team consists of Shift Leaders, Super-visors, Assistant Managers, and General Managers.
+Before we begin, you should NOT be participating in the demonstration. Please sit quietly and watch closely.
+The TRAINER should act as the TROLLER and the ASSISTANT should act as the STAFF MEMBER. Proceed with the simulation as smoothly as possible. Move on once you’ve finished.
+Thank you for watching. 
+To make sure you were paying attention, what do you do once the troller has been given one VERBAL warning? 
+You may answer in chat. 
+Good job! After giving the troller ONE verbal warning, you must contact a member of the Super-vision Team. 
+Remember, ST stands for Super-vision Team. 
+The Super-vision Team will jail the troller if they continue to be uncooperative.
+Trivia Stage
+We will now be moving on to our last stage, trivia! 
+This will be a review of everything you have learned during the session. 
+Let’s head back inside of the training room to begin this stage. 
+Wait for everyone to be seated in order to proceed.
+Is everyone ready to answer the trivia? 
+Wait for the Trainees to respond.
+Good! Even if you’re not, you’re welcome to seek help from someone at your table. 
+Answer each question out loud. Good luck!
+Ask each question and allow a majority of them to respond. Before you move on, tell them the correct answer located below the question.
+1. What is your job as a Junior Operator at the car wash?
+Correct Answer: As a Junior Operator, you should be directing traffic, operating the gates, and working in the lanes to distribute tickets.
+2. What is the highest rank you can achieve by attending training sessions?
+Correct Answer: The highest rank you can achieve is Head Operator. After you’re a Head Operator, keep working hard at the car wash to be promoted.
+3. What should you do if there’s a troller?
+Correct Answer: You should give the troller one VERBAL warning and then contact a member of the Super-vision Team.
+4. Name several ranks that are in the Super-vision Team.
+Correct Answer: Shift Leaders, Super-visors, Assistant Managers, and General Managers are in the Super-vision Team.
+5. What are two important things that you should include in your greeting?
+Correct Answer: You should greet the customer in a friendly manner and ask them what type of ticket they would like.
+Conclusion
+Thank you everyone for participating! That concludes the final stage of our training. 
+Please give us a moment to review everyone’s performance. If you did not pass, you are welcome to attend the next training.
+Pass the Trainees unless someone was being disruptive or were unresponsive for most of the training. Do NOT fail for grammar and do NOT review them individually.
+Use the !warn command several times on a Trainee to fail them.
+Avoid joking about failing everyone. Tell them they passed and move on.
+Congratulations, you’ve all passed the session! Head over to the passer lines that are outside. There should be ONE person per line.
+Wait until they are standing on the lines to move on. 
+Once again, make sure there is one person per line. When you have been added to the ranking queue, do not leave the game until you have been kicked. 
+Thank you for your participation during this session. We hope to see you next time! 
+Say :pm admins Ranker needed Group [GROUP LETTER]. Do not make a #ranker-request unless you are the host of the session.
+Keep them on the lines and remind them to NOT leave the game. 
+Stay with your Trainees until they have ALL been ranked and kicked. 
+---------------------------------------------------------------------------------------------------------------------------------------
+Junior Operator Guide
+---------------------------------------------------------------------------------------------------------------------------------------
+Notes Stage
+Make sure everyone finds a seat and is in the correct group.
+As a trainer, you must keep the training going with minimal interruptions. Allow your ASSISTANTS to handle disruptions. 
+
+Welcome to training! During this session, I will guide you through everything you need to know as you make your way up the ranks. 
+Before we begin, you should be seated at all times. If you cannot see my chat, adjust your camera. 
+Unless instructed to do so, leaving your seat will result in a warning. 
+We will begin with the notes stage. 
+In this stage, I will review the material from your last training and go over the rules you must follow as an employee member.
+As a Junior Operator, you must pass this training to become a Senior Operator.
+After this training, you can attend ONE more training session to become a Head Operator.
+Head Operators CANNOT attend training. 
+Instead, they must play the game regularly and set a good example to be promoted to the Super-vision Team.
+
+The Super-vision Team consists of Shift Leaders, Super-visors, Assistant Managers, and General Managers.
+The Super-vision Team receives moderation power at the car wash and can help out at training sessions.
+If there is not a member of the Super-vision Team in your server, request one to join on the group wall or the communications server.
+Moving on, I will explain the rules you must follow as a member of the employee team.
+First, do not ask higher ranks if you can get promoted. This is called HINTING.
+Although, asking HOW to get promoted is acceptable.
+Second, do not block cars or act rudely towards customers. 
+Behaving disrespectfully will result in immediate punishment. 
+Third, do not challenge the authority of higher ranks.
+They have the right to take any moderation action against you. 
+Fourth, you must maintain professionalism at ALL TIMES.
+This means acting polite and considerate of others. 
+Thank you for listening. 
+Anyone who violates these rules as an employee member will be demoted. Does everyone understand?
+Wait for everyone to respond.
+Good, we will now move on to the drive-thru stage.
+
+
+Drive-Thru Stage
+In this stage, I will demonstrate how to serve a customer at the drive-thru by using a proper greeting and making their order.
+In order to do this, please follow me to the demo lane. Have a seat on the BENCHES in front of the booth once we arrive.
+Walk over to the demo lane. Wait until everyone has taken a seat on the benches.
+Welcome to the demo lane! Everyone will stay seated during this stage.
+You will watch as our assistant and I demonstrate how to serve someone at the drive-thru.
+I will be behind the register. Our assistant will drive up in a car and tell me what they would like to order.
+I will make the item, hand it to them, and wish them a good day.
+You will NOT be participating in this demonstration. Please sit quietly and watch closely.
+The TRAINER should stand behind a REGISTER and the ASSISTANT should drive up to the window and order something. The Junior Operators DO NOT PARTICIPATE in this demonstration. Move on once you’ve finished.
+Thank you for watching!
+Let’s review what you’ve learned. What do you do once a customer drives up to your register?
+You may answer in chat.
+The correct answer is saying your greeting. Make sure they all answer correctly!
+Good job! What are several things you should include in your greeting?
+This is something you learned last training.
+They can have different answers for this one.
+Excellent! 
+At this point, we will sharpen our skills with greetings and move on to the greetings stage.
+Let’s head back inside to begin! 
+Greetings Stage
+How is everyone doing so far? Are there any questions?
+Take a minute to answer questions with your assistants. Don’t take too long answering questions.
+Alright, let’s begin the greetings stage.
+When a customer drives up to your window, you must be prepared to greet them and ask what they would like to eat or drink.
+In your last training, you learned that this is called your GREETING.
+Unlike the ticket booths, you will NOT ask them what ticket they would like.
+Instead, your greeting will look like this…
+Hello, welcome to the Washiez Drive-Thru! What would you like to eat/drink? The menu is above. 
+You have one minute to create a greeting for the drive-thru. Your minute starts now!
+Once again, make sure to greet them in a friendly manner and ask what they would like to eat or drink. 
+Good luck!
+After waiting one minute, make sure you and your assistants are checking greetings. Give feedback to as many people as you can! 
+Thank you for your participation!
+Kitchen Stage
+Let’s begin the kitchen stage. 
+In this stage, you will have THREE minutes to practice making food and drinks.
+Please use the food and drink machines that are behind you. DO NOT leave the room.
+After your time is up, I will ask everyone to report back to their seats.
+Then, I will ask everyone to make a specific food or drink item.
+Before you begin, those who are on a PHONE will only see THREE inventory items displayed at the bottom of their screen.
+In order to see the rest of your inventory, select the three dots at the top right and then press “inventory” to see the rest of your items.
+Your three minutes start now, have fun! 
+Wait three minutes. You and your assistants should be asking any questions and providing assistance to them. Move on once the three minutes are up.
+Your time is up! Please take a seat.
+In the next part of the kitchen stage, you will make a specific order and hand it to me.
+To hand an item to me, hold out the item and use the !give command.
+You may now head back to the kitchen to make me a STRAWBERRY DONUT and a LATTE. Do not leave the room!
+Once you’ve handed both items to me, take a seat. 
+You and your assistants should provide assistance and make sure everyone takes their seat afterwards.
+Good job! That concludes the kitchen stage.
+Trivia Stage
+We will now be moving on to our last stage, trivia!
+This will be a review of everything you have learned during the session.
+Is everyone ready to begin?
+Good! Answer each question out loud. Good luck!
+1. What is hinting? Is it allowed?
+Correct Answer: Hinting means asking for a promotion. We do not allow this. 
+2. What rank can you train for after Senior Operator?
+
+Correct Answer: After being promoted to Senior Operator, you can attend one more training to become a Head Operator.
+3. What is the purpose of the Super-vision Team?
+Correct Answer: The Super-vision Team can jail trollers. Once you have given a troller a verbal warning, report them to a member of the Super-vision Team.
+4. What should you do once a customer drives up to your register at the drive-thru?
+Correct Answer: You should greet them, ask what they would like to eat or drink, and make the items that they order.
+5. How do you hand a food or drink item to a customer?
+Correct Answer: You can hand someone an item by saying !give followed by their username.
+Conclusion
+Thank you everyone for participating! That concludes the final stage of our training. 
+Please give us a moment to review everyone’s performance. If you did not pass, you are welcome to attend the next training.
+Pass the Junior Operators unless someone was being disruptive or were unresponsive for most of the training. Do NOT fail for grammar and do NOT review them individually.
+Use the !warn command several times on a Junior Operator to fail them.
+Avoid joking about failing everyone. Tell them they passed and move on.
+Congratulations, you’ve all passed the session! Head over to the passer lines that are outside. There should be ONE person per line.
+Wait until they are standing on the lines to move on. 
+Once again, make sure there is one person per line. When you have been added to the ranking queue, do not leave the game until you have been kicked. 
+Thank you for choosing to be a part of our community and we hope to see you next time! 
+Say :pm admins Ranker needed Group [GROUP LETTER]. Do not make a #ranker-request unless you are the host of the session.
+Keep them on the lines and remind them to NOT leave the game. 
+Stay with your Junior Operators until they have ALL been ranked and kicked. 
+---------------------------------------------------------------------------------------------------------------------------------------
+Senior Operator Guide
+---------------------------------------------------------------------------------------------------------------------------------------
+Notes Stage
+Make sure everyone finds a seat and is in the correct group.
+As a trainer, you must keep the training going with minimal interruptions. Allow your ASSISTANTS to handle disruptions. 
+
+Welcome to the training session! As your trainer, I will guide you through your last training at Washiez.
+Before we begin, you should be seated at all times. If you cannot see my chat, adjust your camera. 
+Unless instructed to do so, leaving your seat will result in a warning. 
+The first stage of training will be the review stage. Listen carefully as we revisit the information you’ve learned in your past several trainings. 
+During your training as a Trainee, you learned about the importance of the Super-vision Team and how they help you deal with trollers.
+Remember, the first step when you encounter a troller is to give them a VERBAL warning. 
+If they continue, find someone who is in the Super-vision Team.
+Shift Leaders, Super-visors, Assistant Managers, and General Managers are in the Super-vision Team. They can give warnings and jail trollers.
+
+Once you become a Head Operator, you will NOT be able to give warnings that display over a person's nametag. That’s only accessible to the Super-vision Team. 
+Make sure you know how to handle a troller going forward. Remember, give them a VERBAL warning and then seek help from the Super-vision Team. 
+In your training as a Junior Operator, you learned about the rules you must follow at the car wash.
+These rules are to act appropriately, respect the authority of higher ranks, and to maintain a professional attitude. 
+Anyone who violates these rules will be demoted. 
+Does everyone understand what we have gone over? 
+Wait for everyone to respond.
+Good! We’ll have a trivia on what we just reviewed before we move onto the next stage. 
+The first question is…
+1. What should you do if there’s a troller?
+Correct Answer: You should give the troller one VERBAL warning and then contact a member of the Super-vision Team.
+2. Name several ranks that are in the Super-vision Team.
+Correct Answer: Shift Leaders, Super-visors, Assistant Managers, and General Managers are in the Super-vision Team.
+3. What is the purpose of the Super-vision Team?
+Correct Answer: The Super-vision Team can jail trollers. Once you have given a troller a verbal warning, report them to a member of the Super-vision Team.
+Thank you for participating! That concludes the review stage.
+Warehouse Stage 
+We will now move on to the warehouse stage.
+In this stage, I will demonstrate how to restock the car wash.
+To begin, please follow me outside. Once we arrive, have a seat on the benches. 
+Walk over to the demo lane. Wait until everyone has taken a seat.
+Let’s begin!
+One of the most important duties as a Head Operator is making sure the car wash is restocked.
+Inside of the car wash, there are four crates that have an indicator above them. If the indicator is on red, that means it’s time to replace the empty crate. 
+To replace a crate, enter the warehouse. It’s the red brick building next to the cafe. 
+Open the door to the machine and place a crate inside. The crate will fill up with water and soap. 
+After the crate travels through the conveyor, it’s ready to be picked up and brought to the car wash.
+
+Use the machine under the BLUE arrow to restock the car wash. This machine is located inside of the car wash.
+Make sure to restock frequently so the car wash has enough soap and water.
+Before we end the warehouse stage, I will demonstrate how to fill up a crate.
+Please sit quietly and watch closely.
+You should fill up a crate, pick it up, and show it to the Senior Operators.
+As demonstrated, I opened the door and placed the crate inside. 
+From there, everything was done automatically and I could pick up the crate from the other end.
+That concludes the warehouse stage, thank you for listening! Let’s head back inside for the notes stage.
+Notes Stage
+How is everyone doing so far? If you have any questions, now would be the time to ask.
+Take a minute to answer questions with your assistants. Don’t take too long answering questions.
+Alright, let’s begin the notes stage.
+During this stage, I will explain how to become a Shift Leader.
+Listen carefully. This is VERY important information as a Head Operator.
+Once you become a Head Operator, you CANNOT attend trainings anymore.
+Unfortunately, you will not be able to join the training center either. 
+To become a Shift Leader, you have to meet the following requirements…
+✅ Earn 250 skill.
+✅ Regularly play the game
+✅ Display professionalism, respect for others, and the ability to effectively handle situations at the car wash
+✅ Work as an employee member for a minimum of 2 weeks.
+That’s it! After meeting these requirements, you can be promoted through the RECOMMENDATION PROCESS. 
+The recommendation process is where the Corporate Team promotes hard working Head Operators that meet the requirements. 
+You can ONLY be promoted if you’ve met the requirements and continue to work hard.
+Hinting, which means to ask for a promotion, is NOT allowed.
+Hinting will GREATLY reduce your chances of being promoted. 
+If you have any questions or feel confused about the recommendation process in the future, do not hesitate to ask a higher rank.
+That concludes the notes stage.
+Trivia Stage
+Let’s wrap up the training with another trivia on what you’ve just learned.
+Here we go, good luck! 
+1. What should you do if the car wash needs to be restocked?
+Correct Answer: You should go to the warehouse, fill up a crate, and bring it back to the car wash to exchange it with an empty crate. 
+2. Can you continue to attend training sessions as a Head Operator?
+Correct Answer: No! Head Operator is the maximum rank you can train for.
+3. What are some important characteristics you should display as a member of the employee team?
+Correct Answer: Respect, professionalism, and politeness. 
+4. What is hinting? Is it allowed?
+Correct Answer: Hinting means to ask for a promotion. It is NOT allowed.
+5. What happens once you meet the requirements?
+Correct Answer: Once you meet the requirements, you have a chance at being promoted by a member of the Corporate Team. This does NOT happen immediately and will take time.
+Conclusion
+Thank you everyone for participating! That concludes the final stage of our training. 
+Please give us a moment to review everyone’s performance. If you did not pass, you are welcome to attend the next training.
+Pass the Senior Operators unless someone was being disruptive or were unresponsive for most of the training. Do NOT fail for grammar and do NOT review them individually.
+Use the !warn command several times on a Senior Operator to fail them.
+Avoid joking about failing everyone. Tell them they passed and move on.
+Congratulations, you’ve all passed the session! Head over to the passer lines that are outside. There should be ONE person per line.
+Wait until they are standing on the lines to move on. 
+Once again, make sure there is one person per line. When you have been added to the ranking queue, do not leave the game until you have been kicked. 
+Thank you for your participation during this session. We hope to see you next time!
+Say :pm admins Ranker needed Group [GROUP LETTER]. Do not make a #ranker-request unless you are the host of the session.
+Keep them on the lines and remind them to NOT leave the game. 
+Stay with your Senior Operators until they have ALL been ranked and kicked.
+---------------------------------------------------------------------------------------------------------------------------------------
+Training Guide
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Training Roles
+Host (MAX: 1) - Leads the training session. They state the information at the beginning and make sure the session goes smoothly.
+Co-Host (MAX: 1) - Assists the host with running the training session.
+Trainer (MAX: 6) - Answers questions in the auditorium and trains a training group. There can only be ONE trainer per group.
+Assistant (MAX: 12) - Answers questions and assists a group.
+
+Team Selection
+Open the menu with the button on the right to select your desired role.
+20 minutes before the session, players will be randomly picked.
+You will lose your role if you leave the game or disconnect.
+Complaining about the selection process or losing your role after disconnecting is PROHIBITED.
+
+Punishment Commands 
+!warn player - SUPERVISION TEAM+ with a role. Warning a 2nd time will fail them.
+!unwarn / !unfail player - HOST and MANAGEMENT TEAM+
+
+Reminders
+Trainers should use the updated guides in this document. Do not use your own.
+When the training ends, the host will list members of the Supervision and Management Team who attended in #session-logs.
+The doors should remain LOCKED before training begins. Purposefully opening the doors will result in demotion. 
+Do not warn members of the Entry Team before the training begins
+
+Host Instructions
+Ten minutes before the training begins, make the following announcements.
+✨ Welcome to Washiez trainings! Take a seat as we will begin shortly. Say PTS in chat if you have a question and an employee member will assist you shortly.
+👍 The assistants of this training will be walking around to answer questions. 
+
+At the starting time, make the following announcements.
+⚠️ We are beginning training. Please stay in your seat and remain silent until you are dismissed. 
+🚗 Welcome to the training! During this session, you will be trained to rank up and work at the car wash. There are numerous stages you must complete in order to pass.
+🔒 Before we begin, the server has now been LOCKED. If you leave the game, you will not be able to join back.
+At this time, the server should be locked by the host using the :slock command. Continue making the following announcements.
+📋 We will now go through the rules. Please listen carefully. 
+👉 Listen attentively to your trainer at all times.
+👉 If you have to go AFK, notify one of the higher ranks. You cannot be AFK for the entire session. 
+👉 If you disconnect from the game, you CANNOT join back. Please attend the next training instead. 
+👉 Be respectful towards higher ranks and respect their authority. 
+✅ Thank you for listening to the rules. I will now explain the punishment system.
+📌 The higher ranks can give a WARNING for breaking the rules. This will display above your nametag.
+📌 You will receive a warning if you are not seated at a desk, being disrespectful, or disrupting the session. 
+📌 If you continue to break the rules after receiving ONE warning, you will FAIL the training session and will be kicked from the server. 
+Say !autogroup in chat. Do NOT say this command again.
+If people start leaving their seats, do NOT attempt to have them sit down again. Proceed with the following announcements right away.
+✅ Thank you for listening. Trainees exit through the LEFT door. Junior Operators and Senior Operators exit through the RIGHT door. You are now dismissed. 
+📌 Please enter the correct training room that’s labeled with the letter on your nametag. Do not stay in the hallway.
+📌 Once everyone is in their training rooms, the trainer will begin. Listen carefully to their instructions. Good luck!
+---------------------------------------------------------------------------------------------------------------------------------------
+Operations Handbook
+---------------------------------------------------------------------------------------------------------------------------------------
+Operations Department
+
+Welcome to the Operations Department. This document outlines the duties of a department member. Make sure you are completing all of the tasks of this department.
+
+**Scroll to the bottom of the document for ACTIVITY REQUIREMENTS**
+
+Ticket System
+ALL tickets should be responded to by Operations Department members. Follow the steps when responding to a ticket. 
+
+1. Send this message:
+Hello! Thank you for using our support system. My name is [USERNAME] and I will be assisting you today. 
+
+2. CLAIM the ticket.
+(insert image here)
+3. Help them with whatever they need. Here’s a few tips…
+TIP: If they are reporting a staff member, ping the Human Resources Department role. They’ll be able to give people strikes.
+
+TIP: If they weren’t ranked at a training session and have decent evidence, rank them. 
+
+TIP: If they complain that they were demoted for any reason, tell them that we cannot provide refunds for rank purchases and re-rank anyone that was demoted.
+
+TIP: If the user who opened the ticket hasn’t responded in 30 minutes, close the ticket. 
+
+TIP: If they bought a rank and it isn’t working, tell them to set their inventory PUBLIC and provide a link to their profile.
+(insert image here)
+Car Wash Supervision
+Board of Directors+ are the ONLY ranks that are able to delete cars and kick people from the server. 
+
+The main duty of the Operations Department is to be in-game consistently to assist lower ranks and make sure the car wash is running smoothly.
+
+Trainings Locking/Ranking
+The only ranks that can lock the server and rank LRs are Junior Corporates+
+
+Members of the Operations department must join training servers frequently, lock the server, and rank at the end.
+
+You must also ensure that #ranker-requests are taken care of. 
+(insert image here)
+Join through their profile and rank all of the groups near the end of training. Once you’ve ranked in an MRs server, react with a CHECKMARK. 
+
+Trainings Locking/Ranking
+Members of this department should be clearing spam on the group wall. Since only Junior Operators+ can speak on the group wall, anyone who is spamming should be demoted.
+
+Weekly Requirements
+
+Each week, department members must complete the following tasks. If you are on an inactivity notice, you are excused from your duties.
+
+1. At least 2 hours spent in-game.
+2. Assist people in tickets.
+3. Attend at least 4 trainings.
+4. Consistently help rank by using the #ranking-requests channel.
+4. Supervise the car wash on a daily basis.
+---------------------------------------------------------------------------------------------------------------------------------------
+Consequential Guide
+---------------------------------------------------------------------------------------------------------------------------------------
+
+The consequential guide is an in-depth guide to all punishable offenses at Washiez. Read each section to learn how using certain commands or committing certain actions will result in a potential punishment. Punishments are handled by our Human Resources Department.
+
+Subject to the discretion of the individual handing out the punishment. A combination of offenses could result in a more severe punishment.
+
+Note: 
+Punishment letters for Supervision Team demotions will have an appeal eligibility date to show improvement. 
+
+Demotions:
+For demotions, you will set the appeal eligibility date to a month after the punishment is issued. For Management demotions, they cannot be appealed. E.g. GMs cannot appeal their demotion if they were demoted from JD.  
+
+
+
+Terminations:
+Terminations cannot be appealed for improvement, however they can be appealed if there is an error. 
+
+-- Reminder Offenses --
+
+
+The following offenses may result in a reminder. Continuing the same action after being reminded will result in a strike. Keep in mind that you are to attach proof of you reminding that person either in-person or via DMs, not only through PMs. 
+
+For both Supervision Team and Management Team:
+Lack of grammar with a role in the TC. More than 10 grammatical errors within a full chatbox. 
+Unrelated talk in #session-logs.
+Minor unprofessionalism
+Abusing door locks 
+Training without the correct guides
+Not wearing uniforms 
+Misusing discord channels 
+Standing idle in the middle of the carwash, ignoring help requests, rank responsibilities 
+Cuff abuse 
+
+For Supervision Team:
+Hosting alliance visits 
+
+For Management Team:
+Backlogging in #session-logs
+Failing to moderate trainees correctly at the TC
+Failing to moderate situations at the car wash correctly according to the compliance trello 
+AFK for a long period of time during sessions (then remove them from attendance)
+Not writing the most complete/full username when moderating. 
+Using the role swap commands without contacting a corporate
+Unlocking previously locked servers without permission 
+
+-- Strike Offenses --
+
+The following offenses will result in a strike. Receiving three strikes will result in a demotion or termination depending on the strike reasons. Make a vote in #department-votes if you are unsure for Management+. However, the consequence should still follow this guideline. 
+
+For both Supervision Team and Management Team:
+An offense that they have already been reminded for 
+Jailing/warning others and themselves for invalid reasons at both the car wash and TC
+Trolling, being disruptive e.g. blocking the exit 
+Hosting fake/practice trainings not on our schedule 
+Minor minute farming — going AFK for 30 minutes. Substantial proof must be provided. E.g. proof of chatlogs, screen recording of them being idle, etc. 
+Minor leaking e.g. leaking cropped screenshots of supervision chat/ announcements, etc. 
+Falsifying evidence 
+Refusing to leave TC after being asked. 
+For any level 2 offenses on the compliance Trello. 
+
+For Management Team:
+Unprofessionalism
+Misusing the following commands to troll
+:pm 
+:m 
+:h 
+Engaging with hate accounts e.g. hate tiktok accounts, youtube, etc.
+Role stealing 
+
+
+
+
+
+
+-- Demotion Offenses --
+
+The following offenses will result in a demotion to the previous rank. If this is a Director, please ask/make a recommendation in #department-votes.
+
+For both Supervision Team and Management Team:
+3 strikes 
+Defamation 
+Minute farming - going AFK for long periods of time, using a cheating mechanic to bypass the idle kick
+
+
+-- Termination Offenses --
+
+The following offenses will result in a termination to Customer. If this is a Director, please ask/make a recommendation in #department-votes.
+
+
+For both Supervision Team and Management Team:
+Homophobia, transphobia, racism
+Doxxing 
+Level 4 offenses + death threats, NSFW behaviour in-game or in Discord 
+Major leaking e.g.  A Director screen recording management chats and sending management guidelines to non-mgmt+ members. 
+Major AA 
+
+For more information, refer to previous announcements and pins. Ask for opinions in #feedback if you are unsure. 
+
+
+Signed,
+Washiez Chief Human Resources Officers
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Human Resources Information
+---------------------------------------------------------------------------------------------------------------------------------------
+
+-- Staff Supervision --
+As a Human Resources member, your main job is supervising the Supervision and Management Team. This includes issuing strikes, demotions, terminations, and looking for promotions to balance our ranks.
+
+Keep an eye on #punishment-requests. This is where Operations members will request punishments from HRD. One person should be checking it off, copying these punishments to #punishment-logs and sending the user the appropriate message.
+
+Collect session attendance, in-game minutes, cooldown, and other proof of activity and get approval from a Senior Corporate+ to promote a Shift Leader+. Once it is posted in #promotion-approval and approved, log it in #promotion-logs and make an announcement in-game or in #supervision-chat informing everyone of the promotion.
+
+You can accept/deny inactivity notices and excuses. Keep in mind that inactivity notices and excuses must both follow the format and can last up to two weeks. If you accept one, make sure to log it in the Trello under ‘Management Notices’. When the notice is over or someone ends it early, make sure to move it over to ‘Completed Management Notices’. If you are a Corporate Intern, you can ask a Junior Corporate+ to do so for you.
+
+Only corporates in the Operations Department can do tickets and check #ranker-requests. You should only be talking and helping with a ticket if you are pinged by someone in Operations.
+
+-- Promotional Batches --
+Promotional batches are hosted every Sunday, by a Senior Corporate+, to determine who gets promoted that week.
+
+A CHRO will put out a time-vote every Friday to see when it will be hosted, this is voted on by all department members. The majority of votes on a time will be when it will take place.
+
+At the time it is hosted, discussion for the promotional batch will take place in the #promotion-batches channel in the HRD discord server.
+
+Supervision Team and Management Team members can be promoted through this event, everyone attending should agree on promotions together. Cooldowns should be kept in mind when it comes to promoting each user.
+
+If someone is unable to attend this department event, they are able to put usernames of people who they think should be promoted in the google sheet, which is posted with the time-vote. They will be marked as ‘assisted’ and can still get credit for participation.
+
+-- Activity Checks --
+Every Sunday, the department will participate in reforms for the Management Team, which include Junior, Senior and Head Directors.
+
+A Senior Corporate+ will be chosen each week to lead activity checks. They will assign directors to everyone in the department (except if someone is on an inactivity notice), and will ensure that it runs smoothly.
+
+All department members can participate by gathering the minutes and sessions for the people they were assigned on Hyra.
+
+Directors should be checked for inactivity notices each week, this can be done by looking over the ‘Management Notices’ or ‘Completed Management Notices’ on the Trello. If you are a Corporate Intern, you can do ‘from: washiez123 in: inactivity notices’ in the search bar.
+
+Requirements for all Junior, Senior and Head Directors consist of both 2 training sessions and 120 minutes a week.
+
+If they complete half of their requirements, an inactivity reminder should be given out. If they continue to do so the next week, an inactivity warning is to be given out to the user.
+
+If they complete none of their requirements and that is their first offense, they are to be given an inactivity warning.
+
+If they continue to not complete requirements two weeks in a row, they can be demoted to their previous rank.
+
+-- Mass Staff Trainings -- 
+Monthly event that is hosted by a Head Corporate+.
+
+Planning will take place 1-2 weeks in advance.
+
+Like the name suggests, this event will be open to all members of the Supervision Team and Management Team. 
+
+Reviews important information with the addition of minigames. 
+
+Can collaborate with other departments as well. 
+-- Management & Supervision Team Promotions --
+
+If you notice a member of ST is working exceptionally well, you can make a promotion recommendation in #promotion-approval if you are a Junior Corporate or Corporate Intern. Please remember to follow the correct format. 
+(insert image here)
+
+After your Senior Corporate has reviewed and ranked, they will react with a check. When they do so, you can edit the “Approval Status” to “Approved”.
+Example:
+(insert image here)
+
+Afterwards, you will log the promotion in our main Washiez server.
+ 
+With Management promotions, a Senior Corporate+ will make a promotion recommendation in #mgmt-recommendations on our HRD server. Ranks below SC can ask a SC to post the recommendation. 
+
+Department members will have the option to react with a check (if they approve) or decline with a cross on the promotion poll. 
+
+If more than half of the department and one Chief approves of the promotion, that individual can then be promoted. 
+
+The person who made the recommendation originally can then log the promotion in #promotion-logs. 
+-- How to Be Active --
+Each week, you will be scored out of 10 and this will be given to you in our personal journals on our HRD server. Your score will determine how much you are paid.
+
+To be active, you must have good activity in the following criteria:
+
+Sending #strike-logs
+
+Sending #promotion-logs
+
+Participating in department activities.
+
+You can get a bonus by having good session attendance, in-game minutes, or Discord activity. 
+
+Not completing requirements and having bad activity will result in an inactivity reminder. If continued, you will be sent a final inactivity warning. If the inactivity continues, you will be demoted to your previous rank.
+
+-- Weekly Requirements --
+Assist in HRD-needed tickets.
+
+Help with promotions and punishments as needed.
+
+Accept/deny inactivity notices.
+
+Participate in department activities.
+
+-- Additional Senior Corporate Responsibilities --
+Senior Corporates are expected to update the Trello and spreadsheet every time an Management Team promotion is approved.
+ 
+React with a emoji in #mgmt-recommendations to indicate that everything has been updated after approval. 
+(insert image here)
+
+bonus: https://docs.google.com/document/d/14IKyGdjMuO2adBAoCEc36NFj0r9PaLpI7OijZuYVMjQ/edit?usp=sharing
+(you need access for it)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+washiez is corrupt by 1dev
+
